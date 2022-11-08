@@ -4,6 +4,13 @@
 
   I am Nknight AMAMIYA. based in Gunma , Japan.
   I love & most using javascript. make up 3d javascript engine and metaverse plattform.
+  
+## using library
+  - tauri
+  - React Native(for Android and Windows)
+  - ReactJS
+  - NextJS
+  - ChakraUI
 
 ## github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
