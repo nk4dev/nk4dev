@@ -5,6 +5,12 @@
   I am Nknight AMAMIYA. based in Gunma , Japan.
   I love & most using javascript. make up 3d javascript engine and metaverse plattform.
   
+ - My Dev site.
+    - [My official Site](https://nknight-official.vercel.app/)
+    - [OSDN (UserName NknightAMAMIYA: Open Source Developers site on Japan)](https://osdn.net/users/nknight/) 
+-  Output of Software Development Diary and Other(Please Follow!!)
+  - twitter @ama_p213 
+  
 ## using library
   - tauri
   - React Native(for Android and Windows)
