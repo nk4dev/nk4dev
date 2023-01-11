@@ -2,6 +2,9 @@
 
 ## My Profile
 
+### first, I say...
+     Goto-san ti*po dekainone~♪
+    
   I am Nknight AMAMIYA. based in Gunma , Japan.
   I love & most using javascript. make up 3d javascript engine and metaverse plattform.
   
