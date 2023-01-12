@@ -6,7 +6,7 @@
      Goto-san ti*po dekainone~♪
     
   I am Nknight AMAMIYA. based in Gunma , Japan.
-  I love & most using javascript. make up 3d javascript engine and metaverse plattform.
+  I love & most using javascript. make up 3d 　~~javascript~~　typescript engine and metaverse plattform.
   
  - My Dev site.
     - [My official Site](https://nknight-official.vercel.app/)
