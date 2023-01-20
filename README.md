@@ -15,7 +15,7 @@
   - twitter @ama_p213 (:D)
   
 ## using library
-  - tauri (X_X <{ Too Hard })
+  - tauri (^_^ <{ Now using for projectV！ })
   - React Native(for Android and Windows :I like this!!!!) (xD)
   - ReactJS (:D)
   - NextJS (:D)
