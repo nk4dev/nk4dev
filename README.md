@@ -23,6 +23,8 @@
   - NextJS (:D)
   - ChakraUI (:O)
 
+<a href="https://app.daily.dev/amamiya_dev"><img src="https://api.daily.dev/devcards/a0f3b3e69e1443f98b982f16a0ccad33.png?r=3ra" width="400" alt="Nknight AMAMIYA's Dev Card"/></a>
+
 ## github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
 
