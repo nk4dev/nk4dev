@@ -4,11 +4,11 @@
 
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20I'm%20AMAMIYA.%20I%20make%20Web3%20Dev%20Site%20and%20Metaverse%20platform!&l0=ffffff&l1=ffa200&l2=ffae00&l3=ffbb00&l4=ff7b00&speed=520)](https://github.com/kawarimidoll/typograssy)
 
-### first, I say...
-     Goto-san ti*po dekainone~♪
-    
-  I am Nknight AMAMIYA. based in Gunma , Japan.
-  I love & most using javascript. make up 3d 　~~javascript~~　typescript engine and metaverse plattform.
+### My Profile
+     I lived in Gunma japan
+     I'm Tachnical High school student(grade 1)
+     using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
+     I making Web3 platform!
   
  - My Dev site.
     - [My official Site](https://nknight-official.variussoftware.com/)
