@@ -19,7 +19,7 @@
 ## using library
   - tauri (^_^ <{ Now using for projectV！ })
   - React Native(for Android and Windows :I like this!!!!) (xD)
-  - ReactJS (:D)
+  - ReactJS (:P)
   - NextJS (:D)
   - ChakraUI (:O)
 
