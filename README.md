@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NknightA&repo=Vortex3D&theme=midnight-purple)](https://github.com/NknightA/Vortex3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=V&theme=midnight-purple)](https://github.com/nknighta/V)
 
 # last One....
 
