@@ -15,6 +15,14 @@
     - [OSDN (UserName NknightAMAMIYA: Open Source Developers site on Japan)](https://osdn.net/users/nknight/) 
 -  Output of Software Development Diary and Other(Please Follow!!)
   - twitter @ama_p213 (:D)
+
+## github status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=V&theme=midnight-purple)](https://github.com/nknighta/V)
+
   
 ## using library
   - tauri (^_^ <{ Now using for projectV！ })
@@ -26,12 +34,6 @@
 ## daily dev
 <a href="https://app.daily.dev/amamiya_dev"><img src="https://api.daily.dev/devcards/a0f3b3e69e1443f98b982f16a0ccad33.png?r=3ra" width="400" alt="Nknight AMAMIYA's Dev Card"/></a>
 
-## github status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=V&theme=midnight-purple)](https://github.com/nknighta/V)
 
 # last One....
 
