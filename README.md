@@ -1,9 +1,5 @@
 # Nknight AMAMIYA
 
-## My Profile
-
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20I'm%20AMAMIYA.%20I%20make%20Web3%20Dev%20Site%20and%20Metaverse%20platform!&l0=ffffff&l1=ffa200&l2=ffae00&l3=ffbb00&l4=ff7b00&speed=520)](https://github.com/kawarimidoll/typograssy)
-
 [![typograssy](
 https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)&l0=000000&l1=e9d09b&l2=c4a140&l3=a16330&l4=ff7300&bg=000000&frame=ffffff&speed=78)](https://github.com/kawarimidoll/typograssy)
 ### My Profile
