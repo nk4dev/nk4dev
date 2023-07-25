@@ -12,8 +12,11 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
     - [My official Site](https://nknight-official.variussoftware.com/)
     - [OSDN (UserName NknightAMAMIYA: Open Source Developers site on Japan)](https://osdn.net/users/nknight/)
     - [About](https://nknighta.github.io/about-me/)
+
+# SNS
 -  Output of Software Development Diary and Other(Please Follow!!)
   - twitter (:D) [HERE!](https://twitter.com/ama_dev_1)
+> [VARIUS Website](https://varius.technology/)
 
 ## github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
