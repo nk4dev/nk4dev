@@ -2,6 +2,9 @@
 
 [![typograssy](
 https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)&l0=000000&l1=e9d09b&l2=c4a140&l3=a16330&l4=ff7300&bg=000000&frame=ffffff&speed=78)](https://github.com/kawarimidoll/typograssy)
+
+[![typograssy](https://typograssy.deno.dev/api?text=(%5E%E5%8F%A3%5E%20)(%E3%83%BB%E5%8F%A3%E3%83%BB%20)(%E3%80%82%E5%8F%A3%E3%80%82)(-%E5%8F%A3-)&l0=000000&l1=ff4400&l2=ff5500&l3=ff5500&l4=ff5500&bg=000000&speed=78)](https://github.com/kawarimidoll/typograssy)
+
 ### My Profile
      I lived in Gunma japan
      I'm Tachnical High school student(grade 1)
