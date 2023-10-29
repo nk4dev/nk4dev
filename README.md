@@ -25,9 +25,9 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 ## github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=IndexLanguage&theme=midnight-purple)](https://github.com/nknighta/IndexLanguage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=IndexLanguage&theme=transparent)](https://github.com/nknighta/IndexLanguage)
 
 
 ## using library
