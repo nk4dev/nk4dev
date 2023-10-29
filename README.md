@@ -7,9 +7,9 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 ### My Profile
      I lived in Gunma japan
-     I'm Tachnical High school student(grade 1)
+     I'm Tachnical High school student(grade 2)
      using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
-     I making Web3 platform!
+     I making vx Web3 platform!
   
  - My Dev site.
     - [My official Site](https://nknight-official.variussoftware.com/)
@@ -18,13 +18,14 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 # SNS
 -  Output of Software Development Diary and Other(Please Follow!!)
-  - twitter (:D) [HERE!](https://twitter.com/ama_dev_1)
+- [twitter (:D)](https://twitter.com/ama_dev_1)
+- [Misskey.io](https://misskey.io/@nknighta)
 > [VARIUS Website](https://varius.technology/)
 
 ## github status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NknightA&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=IndexLanguage&theme=midnight-purple)](https://github.com/nknighta/IndexLanguage)
 
