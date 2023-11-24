@@ -16,7 +16,7 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
     - [OSDN (UserName NknightAMAMIYA: Open Source Developers site on Japan)](https://osdn.net/users/nknight/)
     - [About](https://nknighta.github.io/about-me/)
 
-# SNS
+# Social
 -  Output of Software Development Diary and Other(Please Follow!!)
 - [twitter (:D)](https://twitter.com/ama_dev_1)
 - [Misskey.io](https://misskey.io/@nknighta)
