@@ -17,9 +17,11 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 # Social
 -  Output of Software Development Diary and Other(Please Follow!!)
-- [twitter (:D)](https://twitter.com/ama_dev_1)
+- [twitter (:D)](https://x.com/ama_dev_1)
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
+- [lit.link](https://lit.link/nknighta)
+- [Instagram]([https://lit.link/nknighta](https://www.instagram.com/ama_p0627))
 > [VARIUS Website](https://varius.technology/)
 
 ## github status
