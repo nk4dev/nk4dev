@@ -21,7 +21,7 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
 - [lit.link](https://lit.link/nknighta)
-- [Instagram]([https://lit.link/nknighta](https://www.instagram.com/ama_p0627))
+- [Instagram](https://www.instagram.com/ama_p0627)
 > [VARIUS Website](https://varius.technology/)
 
 ## github status
