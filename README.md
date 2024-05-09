@@ -1,4 +1,5 @@
 # Nknight AMAMIYA
+![TypeScript](https://github.com/nknighta/NknightA/assets/88763245/54268ea4-b6c8-4144-b111-60596d23ab0b)
 
 [![typograssy](
 https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)&l0=000000&l1=e9d09b&l2=c4a140&l3=a16330&l4=ff7300&bg=000000&frame=ffffff&speed=78)](https://github.com/kawarimidoll/typograssy)
