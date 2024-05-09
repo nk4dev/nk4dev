@@ -28,11 +28,8 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 > [VARIUS Website](https://varius.technology/)
 
 ## github status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=IndexLanguage&theme=transparent)](https://github.com/nknighta/IndexLanguage)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats))
 ## using library
   - tauri (^_^ <{ Now using for projectV！ })
   - React Native(for Android and Windows :I like this!!!!) (xD)
