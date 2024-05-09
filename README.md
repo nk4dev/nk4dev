@@ -11,13 +11,15 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
      I'm Tachnical High school student(grade 2)
      using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
      I making vx Web3 platform!
-  
- - My Dev site.
-    - [OSDN (UserName NknightAMAMIYA: Open Source Developers site on Japan)](https://osdn.net/users/nknight/)
-    - [About](https://nknighta.github.io/about-me/)
+
+# Projects in progress
+- [VX](https://github.com/nknighta/vx)
+- [VX DOCS](https://github.com/nknighta/vx-docs)
+- [VX SDK](https://github.com/nknighta/vx-sdk)
 
 # Social
 -  Output of Software Development Diary and Other(Please Follow!!)
+- [About](https://nknighta.github.io/about-me/)
 - [twitter (:D)](https://x.com/ama_dev_1)
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
@@ -27,8 +29,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 ## github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nknighta&repo=IndexLanguage&theme=transparent)](https://github.com/nknighta/IndexLanguage)
 
