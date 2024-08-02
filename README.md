@@ -8,7 +8,7 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 ### My Profile
      I lived in Gunma japan
-     I'm Tachnical High school student(grade 2)
+     I'm Tachnical High school student(grade 3)
      using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
      I making vx Web3 platform!
 
