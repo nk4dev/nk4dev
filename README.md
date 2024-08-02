@@ -17,6 +17,9 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
 
+# my topics
+[topics/vx-web3](https://github.com/topics/vx-web3)
+
 # Social
 -  Output of Software Development Diary and Other(Please Follow!!)
 - [About](https://nknighta.github.io/about-me/)
