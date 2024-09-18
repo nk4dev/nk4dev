@@ -10,6 +10,6 @@ I am Chuo Information Technical studet.
 
 ## Works & make apps
 
-> projectv
-> https://github.com/nknighta/V
+> vx
+> https://github.com/nknighta/vx
 
