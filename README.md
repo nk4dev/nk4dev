@@ -17,6 +17,9 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
 
+# vx (Web3 apps and platform)
+[vx](https://github.com/nknighta?tab=repositories&q=vx)
+
 # my topics
 [topics/vx-web3](https://github.com/topics/vx-web3)
 
