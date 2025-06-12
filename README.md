@@ -25,7 +25,7 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 # Social
 -  Output of Software Development Diary and Other(Please Follow!!)
-- [About](https://nknighta.github.io/about-me/)
+- [About](https://nknighta.github.io/)
 - [twitter (:D)](https://x.com/ama_dev_1)
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
