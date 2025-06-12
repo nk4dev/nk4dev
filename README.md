@@ -12,6 +12,13 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
      using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
      I making vx Web3 platform!
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nknighta&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nknighta&theme=nightowl&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nknighta&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nknighta&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nknighta&theme=nightowl)
+
 # Projects in progress
 - [VX](https://github.com/nknighta/vx)
 - [VX DOCS](https://github.com/nknighta/vx-docs)
@@ -32,10 +39,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 - [lit.link](https://lit.link/nknighta)
 - [Instagram](https://www.instagram.com/ama_p0627)
 > [VARIUS Website](https://varius.technology/)
-
-## github status
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nknighta&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats))
 ## using library
   - tauri (^_^ <{ Now using for projectV！ })
   - React Native(for Android and Windows :I like this!!!!) (xD)
