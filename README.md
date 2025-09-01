@@ -1,4 +1,4 @@
-# Nknight AMAMIYA
+# Nknight AMAMIYA@[varius](https://github.com/varius-dev)
 ![TypeScript](https://github.com/nknighta/NknightA/assets/88763245/54268ea4-b6c8-4144-b111-60596d23ab0b)
 
 [![typograssy](
