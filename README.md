@@ -51,8 +51,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 https://g.dev/nknighta
 
 ## daily dev
-<a href="https://app.daily.dev/amamiya_dev"><img src="https://api.daily.dev/devcards/a0f3b3e69e1443f98b982f16a0ccad33.png?r=3ra" width="400" alt="Nknight AMAMIYA's Dev Card"/></a>
-
-<img src="https://api.daily.dev/devcards/v2/MI3SXDlPXVprhxENMIaYg.png?type=wide&r=vo2" width="652" alt="Nknight AMAMIYA's Dev Card"/>
+<a href="https://app.daily.dev/nk4dev"><img src="https://api.daily.dev/devcards/v2/MI3SXDlPXVprhxENMIaYg.png?type=wide&r=9dk" width="652" alt="Nknight AMAMIYA's Dev Card"/></a>
 
 # I 💓 Metaverse!!!!!!!!!!!!!!!!!!!!!!!!!
