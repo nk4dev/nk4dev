@@ -20,6 +20,7 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nknighta&theme=nightowl)
 
 # Projects in progress
+- [VX3](https://github.com/nknighta/vx3)
 - [VX](https://github.com/nknighta/vx)
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
@@ -32,25 +33,22 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 # Social
 -  Output of Software Development Diary and Other(Please Follow!!)
-- [About](https://nknighta.github.io/)
-- [twitter (:D)](https://x.com/ama_dev_1)
+- [About](https://nknighta.me/)
+- [twitter (:D)](https://nknighta.me/x)
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
-- [lit.link](https://lit.link/nknighta)
-- [Instagram](https://www.instagram.com/ama_p0627)
+- [Instagram](https://nknighta.me/i)
 > [VARIUS Website](https://varius.technology/)
+
 ## using library
-  - tauri (^_^ <{ Now using for projectV！ })
   - React Native(for Android and Windows :I like this!!!!) (xD)
   - ReactJS (:P)
   - NextJS (:D)
   - ChakraUI (:O)
   - VueJS (xD)
-  - Actix Web (;D)
+
 ## Google Developer Profile
 https://g.dev/nknighta
 
 ## daily dev
 <a href="https://app.daily.dev/nk4dev"><img src="https://api.daily.dev/devcards/v2/MI3SXDlPXVprhxENMIaYg.png?type=wide&r=9dk" width="652" alt="Nknight AMAMIYA's Dev Card"/></a>
-
-# I 💓 Metaverse!!!!!!!!!!!!!!!!!!!!!!!!!
