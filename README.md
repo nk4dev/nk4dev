@@ -2,9 +2,9 @@
 ![TypeScript](https://github.com/nknighta/NknightA/assets/88763245/54268ea4-b6c8-4144-b111-60596d23ab0b)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake.svg">
 </picture>
 
 [![typograssy](
