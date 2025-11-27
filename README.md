@@ -12,6 +12,8 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 
 [![typograssy](https://typograssy.deno.dev/api?text=(%5E%E5%8F%A3%5E%20)(%E3%83%BB%E5%8F%A3%E3%83%BB%20)(%E3%80%82%E5%8F%A3%E3%80%82)(-%E5%8F%A3-)&l0=000000&l1=ff4400&l2=ff5500&l3=ff5500&l4=ff5500&bg=000000&speed=78)](https://github.com/kawarimidoll/typograssy)
 
+[![typograssy](https://typograssy.deno.dev/api?text=x:%20@nk4dev,%20instagram:@nk4dev,%20qiita:%20@nk4dev..%20and%20more!&l0=000000&l1=b56aff&l2=7575ff&l3=7b7bff&l4=6900d2&bg=000000&speed=100)
+
 ### My Profile
      I lived in Gunma japan
      I'm Tachnical High school student(grade 3)
