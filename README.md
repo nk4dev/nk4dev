@@ -1,5 +1,16 @@
 # Nknight AMAMIYA[@varius](https://github.com/varius-dev)
-![TypeScript](https://github.com/nknighta/NknightA/assets/88763245/54268ea4-b6c8-4144-b111-60596d23ab0b)
+<table>
+<tr>
+<td>
+<img width="317" height="210" alt="Next js logo by SAWARATSUKI" src="https://github.com/user-attachments/assets/71a2f46a-fe74-45d9-b5f9-f08048d30bdb" />
+</td>
+<td><img width="317" height="210" alt="Typescript logo by SAWARATSUKI" src="https://github.com/user-attachments/assets/a8babb9f-91e6-458e-b54e-f8bcf2a5f529"></td>
+</tr>
+</table>
+
+
+Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
+[Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake-dark.svg">
@@ -11,8 +22,7 @@
 https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%8F%A3%E3%83%BB)&l0=000000&l1=e9d09b&l2=c4a140&l3=a16330&l4=ff7300&bg=000000&frame=ffffff&speed=78)](https://github.com/kawarimidoll/typograssy)
 
 [![typograssy](https://typograssy.deno.dev/api?text=(%5E%E5%8F%A3%5E%20)(%E3%83%BB%E5%8F%A3%E3%83%BB%20)(%E3%80%82%E5%8F%A3%E3%80%82)(-%E5%8F%A3-)&l0=000000&l1=ff4400&l2=ff5500&l3=ff5500&l4=ff5500&bg=000000&speed=78)](https://github.com/kawarimidoll/typograssy)
-
-[![typograssy](https://typograssy.deno.dev/api?text=x:%20@nk4dev,%20instagram:@nk4dev,%20qiita:%20@nk4dev..%20and%20more!&l0=000000&l1=b56aff&l2=7575ff&l3=7b7bff&l4=6900d2&bg=000000&speed=100)
+![typograssy](https://typograssy.deno.dev/api?text=x:%20@nk4dev,%20instagram:@nk4dev,%20qiita:%20@nk4dev..%20and%20more!&l0=000000&l1=b56aff&l2=7575ff&l3=7b7bff&l4=6900d2&bg=000000&speed=100)
 
 ### My Profile
      I lived in Gunma japan
