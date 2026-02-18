@@ -8,6 +8,13 @@
 </tr>
 </table>
 
+# Projects VX3
+VX3 is web3 develop toolkit.
+docs https://nknighta.me/vx
+- [VX3](https://github.com/nknighta/vx3)
+- [VX](https://github.com/nknighta/vx)
+- [VX DOCS](https://github.com/nknighta/vx-docs)
+- [VX SDK](https://github.com/nknighta/vx-sdk)
 
 Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
 [Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
@@ -36,12 +43,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nknighta&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nknighta&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nknighta&theme=nightowl)
-
-# Projects in progress
-- [VX3](https://github.com/nknighta/vx3)
-- [VX](https://github.com/nknighta/vx)
-- [VX DOCS](https://github.com/nknighta/vx-docs)
-- [VX SDK](https://github.com/nknighta/vx-sdk)
 
 # vx (Web3 apps and platform)
 [vx](https://github.com/nknighta?tab=repositories&q=vx)
