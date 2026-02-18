@@ -21,6 +21,7 @@ docs https://nknighta.me/vx
 - [VX](https://github.com/nknighta/vx)
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
+- [Repository](https://nknighta.me/l/vx/searchrepo)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake-dark.svg">
@@ -46,9 +47,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nknighta&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nknighta&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nknighta&theme=nightowl)
-
-# vx (Web3 apps and platform)
-[vx](https://github.com/nknighta?tab=repositories&q=vx)
 
 # my topics
 [topics/vx-web3](https://github.com/topics/vx-web3)
