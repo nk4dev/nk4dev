@@ -21,7 +21,7 @@ docs https://nknighta.me/vx
 - [VX](https://github.com/nknighta/vx)
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
-- [Repositories](https://nknighta.me/l/vx/searchrepo)
+- [Repositories](https://github.com/nk4dev?tab=repositories&q=vx)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake-dark.svg">
