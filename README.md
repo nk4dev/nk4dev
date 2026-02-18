@@ -8,16 +8,19 @@
 </tr>
 </table>
 
+Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
+[Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
+
 # Projects VX3
+
+<img width="269" height="318" alt="logox" src="https://github.com/user-attachments/assets/119bb530-1a3f-475e-a58e-f98d0dd8b3a2" />
+
 VX3 is web3 develop toolkit.
 docs https://nknighta.me/vx
 - [VX3](https://github.com/nknighta/vx3)
 - [VX](https://github.com/nknighta/vx)
 - [VX DOCS](https://github.com/nknighta/vx-docs)
 - [VX SDK](https://github.com/nknighta/vx-sdk)
-
-Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
-[Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nk4dev/nk4dev/output/github-contribution-grid-snake-dark.svg">
