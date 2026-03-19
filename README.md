@@ -11,6 +11,10 @@
 Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
 [Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
 
+
+## language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk4dev&hide=html&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # Projects VX3
 
 <img width="269" height="318" alt="logox" src="https://github.com/user-attachments/assets/119bb530-1a3f-475e-a58e-f98d0dd8b3a2" />
