@@ -12,8 +12,6 @@ Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
 [Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 
-## language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk4dev&hide=html&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects VX3
 
@@ -45,13 +43,6 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
      using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
      I making vx Web3 platform!
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nknighta&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nknighta&theme=nightowl&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nknighta&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nknighta&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nknighta&theme=nightowl)
-
 # my topics
 [topics/vx-web3](https://github.com/topics/vx-web3)
 
@@ -76,3 +67,7 @@ https://g.dev/nknighta
 
 ## daily dev
 <a href="https://app.daily.dev/nk4dev"><img src="https://api.daily.dev/devcards/v2/MI3SXDlPXVprhxENMIaYg.png?type=wide&r=9dk" width="652" alt="Nknight AMAMIYA's Dev Card"/></a>
+
+abc def ghi jkl mno pqr stu
+abc def ghi jkl mno pqr stu
+abc def ghi jkl mno pqr stu
