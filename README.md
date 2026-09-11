@@ -1,4 +1,7 @@
 # Nknight AMAMIYA[@varius](https://github.com/varius-dev)
+## description
+I'm a engineer. 
+
 <table>
 <tr>
 <td>
@@ -10,8 +13,6 @@
 
 Logo made by [SAWARATSUKI](https://github.com/SAWARATSUKI)
 [Logo Repository](https://github.com/SAWARATSUKI/KawaiiLogos)
-
-
 
 # Projects VX3
 
@@ -38,10 +39,9 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 ![typograssy](https://typograssy.deno.dev/api?text=x:%20@nk4dev,%20instagram:@nk4dev,%20qiita:%20@nk4dev..%20and%20more!&l0=000000&l1=b56aff&l2=7575ff&l3=7b7bff&l4=6900d2&bg=000000&speed=100)
 
 ### My Profile
-     I lived in Gunma japan
-     I'm Tachnical High school student(grade 3)
-     using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
-     I making vx Web3 platform!
+I'm engineer 
+using programming language is Java, JavaScript, Typescript, C#, Rust and Other!
+I making vx Web3 platform!
 
 # my topics
 [topics/vx-web3](https://github.com/topics/vx-web3)
@@ -52,22 +52,18 @@ https://typograssy.deno.dev/api?text=(%E3%83%BB%E5%8F%A3%E3%83%BB)(%E3%83%BB%E5%
 - [twitter (:D)](https://nknighta.me/x)
 - [Misskey.io](https://misskey.io/@nknighta)
 - [Reddit](https://www.reddit.com/user/nknight_amamiya)
+- [VRChat](https://nknighta.me/vrchat)
 - [Instagram](https://nknighta.me/i)
 > [VARIUS Website](https://varius.technology/)
 
 ## using library
   - React Native(for Android and Windows :I like this!!!!) (xD)
+  - Flutter 
   - ReactJS (:P)
   - NextJS (:D)
   - ChakraUI (:O)
   - VueJS (xD)
+  - honoJS (abusolute fast library. useful then expressjs)
 
 ## Google Developer Profile
 https://g.dev/nknighta
-
-## daily dev
-<a href="https://app.daily.dev/nk4dev"><img src="https://api.daily.dev/devcards/v2/MI3SXDlPXVprhxENMIaYg.png?type=wide&r=9dk" width="652" alt="Nknight AMAMIYA's Dev Card"/></a>
-
-abc def ghi jkl mno pqr stu
-abc def ghi jkl mno pqr stu
-abc def ghi jkl mno pqr stu
