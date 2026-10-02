@@ -11,7 +11,7 @@
 <p>
   <a href="https://nknighta.me/"><img src="https://img.shields.io/badge/Website-nknighta.me-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://nknighta.me/x"><img src="https://img.shields.io/badge/X-@nknighta-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://misskey.io/@nknighta"><img src="https://img.shields.io/badge/Misskey.io-@nknighta-86b300?style=flat-square&logo=misskey&logoColor=white" alt="Misskey" /></a>
+  <a href="https://misskey.io/@ama_dev_1"><img src="https://img.shields.io/badge/Misskey.io-@ama_dev_1-86b300?style=flat-square&logo=misskey&logoColor=white" alt="Misskey" /></a>
   <a href="https://g.dev/nknighta"><img src="https://img.shields.io/badge/Google%20Dev-Profile-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Dev" /></a>
   <a href="https://nknighta.me/vrchat"><img src="https://img.shields.io/badge/VRChat-Profile-1F2326?style=flat-square&logo=vrchat&logoColor=white" alt="VRChat" /></a>
   <a href="https://nknighta.me/i"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
