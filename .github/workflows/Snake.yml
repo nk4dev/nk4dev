@@ -1,12 +1,16 @@
 name: generate animation
+
 on:
   schedule:
     - cron: "0 */24 * * *"
-
   workflow_dispatch:
   push:
     branches:
-    - master
+      - master
+
+concurrency:
+  group: generate-animation-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -15,6 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,7 +29,97 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: generate top-langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'EOF'
+          import html
+          import json
+          import os
+          import urllib.request
+          from pathlib import Path
+
+          user = os.environ["GH_USER"]
+          token = os.environ["GITHUB_TOKEN"]
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+              "User-Agent": "nk4dev-top-langs-svg",
+          }
+
+          def gh_get(url):
+              req = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(req) as resp:
+                  return json.loads(resp.read().decode("utf-8"))
+
+          repos = gh_get(f"https://api.github.com/users/{user}/repos?per_page=100&type=owner")
+          totals = {}
+          for repo in repos:
+              if repo.get("fork"):
+                  continue
+              langs = gh_get(repo["languages_url"])
+              for lang, byte_count in langs.items():
+                  totals[lang] = totals.get(lang, 0) + byte_count
+
+          total_bytes = sum(totals.values())
+          top_langs = sorted(totals.items(), key=lambda x: x[1], reverse=True)[:8]
+
+          palette = [
+              "#5612ff", "#3178c6", "#f1e05a", "#dea584",
+              "#00add8", "#3572a5", "#b07219", "#89e051"
+          ]
+
+          width = 520
+          bar_x, bar_y, bar_w, bar_h = 20, 52, 480, 12
+          rows_svg = []
+          bar_segs = []
+          current_x = bar_x
+
+          if total_bytes > 0:
+              for idx, (lang, count) in enumerate(top_langs):
+                  pct = (count / total_bytes) * 100
+                  color = palette[idx % len(palette)]
+                  seg_w = (count / total_bytes) * bar_w
+                  if seg_w > 0:
+                      bar_segs.append(
+                          f'<rect x="{current_x:.1f}" y="{bar_y}" width="{seg_w:.1f}" height="{bar_h}" fill="{color}"/>'
+                      )
+                      current_x += seg_w
+
+                  col = idx % 2
+                  row_idx = idx // 2
+                  rx = 20 + col * 245
+                  ry = 92 + row_idx * 28
+                  esc_lang = html.escape(lang)
+                  rows_svg.append(
+                      f'<circle cx="{rx + 6}" cy="{ry - 4}" r="5" fill="{color}"/>'
+                      f'<text x="{rx + 18}" y="{ry}" fill="#c9d1d9" font-size="13" font-family="ui-sans-serif, system-ui, sans-serif">{esc_lang}</text>'
+                      f'<text x="{rx + 225}" y="{ry}" text-anchor="end" fill="#8b949e" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">{pct:.1f}%</text>'
+                  )
+
+          height = 212
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none">
+            <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="8" fill="#0a0021" stroke="#30363d"/>
+            <text x="20" y="32" fill="#f0f6fc" font-size="15" font-weight="600" font-family="ui-sans-serif, system-ui, sans-serif">Top Languages</text>
+            <rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="6" fill="#21262d"/>
+            <g clip-path="url(#bar-clip)">{"".join(bar_segs)}</g>
+            <defs>
+              <clipPath id="bar-clip">
+                <rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="6"/>
+              </clipPath>
+            </defs>
+            {"".join(rows_svg)}
+          </svg>'''
+
+          out_dir = Path("dist")
+          out_dir.mkdir(parents=True, exist_ok=True)
+          (out_dir / "top-langs.svg").write_text(svg, encoding="utf-8")
+          EOF
+
+      - name: push generated svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
