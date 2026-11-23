@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -39,6 +39,7 @@ jobs:
           import html
           import json
           import os
+          import urllib.error
           import urllib.request
           from pathlib import Path
 
@@ -52,17 +53,36 @@ jobs:
 
           def gh_get(url):
               req = urllib.request.Request(url, headers=headers)
-              with urllib.request.urlopen(req) as resp:
+              with urllib.request.urlopen(req, timeout=30) as resp:
                   return json.loads(resp.read().decode("utf-8"))
 
-          repos = gh_get(f"https://api.github.com/users/{user}/repos?per_page=100&type=owner")
+          repos = []
+          page = 1
+          while True:
+              batch = gh_get(f"https://api.github.com/users/{user}/repos?per_page=100&type=owner&page={page}")
+              if not batch:
+                  break
+              repos.extend(batch)
+              page += 1
+
+          print(f"Fetched {len(repos)} repos")
+
           totals = {}
           for repo in repos:
               if repo.get("fork"):
                   continue
-              langs = gh_get(repo["languages_url"])
+              lang_url = repo.get("languages_url")
+              if not lang_url:
+                  continue
+              try:
+                  langs = gh_get(lang_url)
+              except urllib.error.HTTPError as e:
+                  print(f"Skip {repo.get('full_name')}: HTTP {e.code}")
+                  continue
               for lang, byte_count in langs.items():
-                  totals[lang] = totals.get(lang, 0) + byte_count
+                  totals[lang] = totals.get(lang, 0) + int(byte_count)
+
+          print("Top totals:", sorted(totals.items(), key=lambda x: x[1], reverse=True)[:8])
 
           total_bytes = sum(totals.values())
           top_langs = sorted(totals.items(), key=lambda x: x[1], reverse=True)[:8]
@@ -99,6 +119,10 @@ jobs:
                       f'<text x="{rx + 18}" y="{ry}" fill="#c9d1d9" font-size="13" font-family="ui-sans-serif, system-ui, sans-serif">{esc_lang}</text>'
                       f'<text x="{rx + 225}" y="{ry}" text-anchor="end" fill="#8b949e" font-size="13" font-family="ui-monospace, SFMono-Regular, monospace">{pct:.1f}%</text>'
                   )
+          else:
+              rows_svg.append(
+                  '<text x="20" y="96" fill="#8b949e" font-size="13" font-family="ui-sans-serif, system-ui, sans-serif">No language data found.</text>'
+              )
 
           height = 212
           svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none">
@@ -116,13 +140,35 @@ jobs:
 
           out_dir = Path("dist")
           out_dir.mkdir(parents=True, exist_ok=True)
-          (out_dir / "top-langs.svg").write_text(svg, encoding="utf-8")
+          out_file = out_dir / "top-langs.svg"
+          out_file.write_text(svg, encoding="utf-8")
+          assert out_file.exists() and out_file.stat().st_size > 0, "top-langs.svg was not created"
+          print(f"Created {out_file} ({out_file.stat().st_size} bytes)")
           EOF
+          ls -la dist/
 
-      - name: push generated svgs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: push dist to output branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          rm -rf /tmp/output-repo
+          git clone --branch output --single-branch "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/output-repo 2>/dev/null || {
+            mkdir -p /tmp/output-repo
+            git -C /tmp/output-repo init -b output
+            git -C /tmp/output-repo remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          }
+
+          cp -f dist/* /tmp/output-repo/
+          ls -la /tmp/output-repo/
+
+          cd /tmp/output-repo
+          git add .
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update generated svgs"
+            git push -u origin output --force
+          else
+            echo "No changes to commit on output branch."
+          fi
