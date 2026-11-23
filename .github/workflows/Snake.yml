@@ -1,4 +1,4 @@
-name: generate sanke and language svg
+name: generate animation
 
 on:
   schedule:
