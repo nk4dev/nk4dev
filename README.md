@@ -30,7 +30,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk4dev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=nk4dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
+![Top Languages](https://raw.githubusercontent.com/nk4dev/nk4dev/output/top-langs.svg)
 <br><br>
+
 ---
 ### 🛠️ Tech Stack & Favorite Libraries
 
