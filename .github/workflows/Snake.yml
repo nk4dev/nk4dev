@@ -1,8 +1,8 @@
-name: generate animation
+name: generate sanke and language svg
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -151,9 +151,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           rm -rf /tmp/output-repo
           git clone --branch output --single-branch "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/output-repo 2>/dev/null || {
             mkdir -p /tmp/output-repo
@@ -165,6 +162,8 @@ jobs:
           ls -la /tmp/output-repo/
 
           cd /tmp/output-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "chore: update generated svgs"
